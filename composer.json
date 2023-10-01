@@ -27,7 +27,7 @@
         "symfony/finder": "2.4.10",
         "symfony/console": "2.4.10",
         "monolog/monolog": "1.6.0",
-        "ircmaxell/password-compat": "1.0.3",
+        "ircmaxell/password-compat": "1.0.4",
         "rhumsaa/array_column": "~1.1",
         "doctrine/common": "2.4.1",
         "doctrine/dbal": "2.4.1",
